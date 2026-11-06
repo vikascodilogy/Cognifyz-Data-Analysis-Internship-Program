@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=for-the-badge&logo=pandas)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge&logo=matplotlib)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple?style=for-the-badge)](https://seaborn.pydata.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com)
 
 ---
 
@@ -113,10 +113,12 @@ pip install pandas matplotlib seaborn
 
 1. **Clone or download** this repository.
 2. Ensure **`Dataset.csv`** is in the same directory as the notebooks.
-3. Open either notebook in **Jupyter**, **JupyterLab**, or **Google Colab**:
+3. Open either notebook in **Google Colab**:
    - `Cognifyz_Data_Analysis_Level_1.ipynb`
    - `Cognifyz_Data_Analysis_Level_2.ipynb`
 4. **Run all cells** to reproduce the analysis and visualizations.
+
+> 💡 **Tip:** To open in Google Colab, upload the `.ipynb` file to [colab.research.google.com](https://colab.research.google.com) and ensure `Dataset.csv` is uploaded to the same session.
 
 ---
 
